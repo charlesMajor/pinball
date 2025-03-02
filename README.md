@@ -1,7 +1,7 @@
 # pinball
 
-Projet d'école unity: Jeu simple de pinball
+Projet d'Ã©cole unity: Jeu simple de pinball
 
 Build jouable : Build/PinballPrototype.exe
 
-Commande: a et d pour les flippers, maintenir espace puis relacher pour mettre la balle en jeu
+Commandes : a et d pour les flippers, maintenir espace puis relacher pour mettre la balle en jeu
